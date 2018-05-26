@@ -6,3 +6,7 @@ print('hello earth')
 
 
 2-2
+
+
+
+print('goodbye earthlings')
