@@ -1,12 +1,3 @@
-print('hello earth')
+print('Hello Earthlings!!!')
 
-2+5
-
-5+2
-
-
-2-2
-
-
-
-print('goodbye earthlings!!')
+print('Goodbye Earthlings!!!')
